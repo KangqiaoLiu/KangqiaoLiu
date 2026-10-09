@@ -3,9 +3,9 @@
 I work on **stochastic learning dynamics** and theoretical models of complex systems. My earlier machine-learning research studied finite-learning-rate SGD, minibatch noise, and escape dynamics. I now work across learning dynamics, nonequilibrium physics, quantum information, and increasingly on reasoning and scientific AI.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/research-trajectory-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/research-trajectory-light.svg">
-  <img alt="Research trajectory from stochastic processes to learning dynamics and scientific AI" src="assets/research-trajectory-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KangqiaoLiu/KangqiaoLiu/main/assets/research-trajectory-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KangqiaoLiu/KangqiaoLiu/main/assets/research-trajectory-light.svg">
+  <img alt="Research trajectory from stochastic processes to learning dynamics and scientific AI" src="https://raw.githubusercontent.com/KangqiaoLiu/KangqiaoLiu/main/assets/research-trajectory-light.svg">
 </picture>
 
 ## Selected machine-learning work
@@ -19,9 +19,9 @@ I work on **stochastic learning dynamics** and theoretical models of complex sys
 ## What I am working toward
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/research-map-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/research-map-light.svg">
-  <img alt="Research map connecting stochastic optimization, reasoning and agents, scientific discovery, and theoretical physics" src="assets/research-map-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KangqiaoLiu/KangqiaoLiu/main/assets/research-map-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KangqiaoLiu/KangqiaoLiu/main/assets/research-map-light.svg">
+  <img alt="Research map connecting stochastic optimization, reasoning and agents, scientific discovery, and theoretical physics" src="https://raw.githubusercontent.com/KangqiaoLiu/KangqiaoLiu/main/assets/research-map-light.svg">
 </picture>
 
 The next part of my research is about bringing a dynamical-systems viewpoint to modern learning and reasoning: trajectory ensembles, search, verification, rare failures, compute allocation, and research environments built from genuine mathematical and physical problems.
